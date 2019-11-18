@@ -7,8 +7,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{2BEF3463-0F71-4CE9-A9E9-56FF09B8AB4A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ChromePwdDescriptor</RootNamespace>
-    <AssemblyName>ChromePwdDescriptor</AssemblyName>
+    <RootNamespace>ChromePwdDecryptor</RootNamespace>
+    <AssemblyName>ChromePwdDecryptor</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
